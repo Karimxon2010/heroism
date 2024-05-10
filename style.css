@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* h1 {
+    text-align: center;
+    padding: 40px;
+}
+
+p {
+    text-align: center;
+    padding: 20px;
+    font-size: larger;
+}
+
+.card {
+    background-color: orange  ;
+}
+
+.kard { 
+    border-color: white;
+}
+
+.card, .kard {
+    text-align: center;
+    vertical-align: top;
+    width: 300px;
+    height: 700px;
+    display: inline-block;
+    margin: 20px  0px;
+    padding: 20px;
+}
+
+.kard img {
+    border-radius: 50%;
+}
+
+.card img {
+    border-radius: 50%;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1 {
+    text-align: center;
+    padding: 50px;
+    color: darkorchid;
+}
+
+.gcard {
+    width: 100%;
+    height: 800px;    
+    margin: 0 auto;
+    border: 2px solid black;
+    background-color: rgb(232, 187, 255);
+}
+
+.card {
+    background-color: white;
+    border: 2px solid darkorchid;
+    width: 24%;
+    height: 400px;
+    padding: 15px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 10%;
+    text-align: center;
+    vertical-align: top;
+}
+
+.card:hover {
+    background-color: darkgrey;
+    color: darkcyan;
+}
+
+.card:active {
+    background-color: darkolivegreen;
+    color: white;
+}
+
+button {
+    margin: 10px;
+    padding:  7px 25px;
+    border: 3px solid darkorchid;
+    background-color: white;
+    color: darkorchid;
+    margin: 5px;
+    text-align: left;
+    vertical-align: bottom;
+}
+
+.card button:hover {
+    color: aqua;
+    background-color: brown;
+}
+
+div h6 {
+    background-color: plum;
+    width: 40px;
+    height: 40px; 
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid gray;
+    border-radius: 50%;  
+ }
+
+ i {
+    display: block;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .gcard {
+    width: 1500px;
+    margin: 0 auto;
+    border: 2px solid black;
+
+}
+ 
+background-color: darkcyan;
+
+.card {
+    background-color: beige;
+    border: 2px solid darkgray;
+    width: 24%;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.card:hover {
+    background-color: darkgrey;
+    color: darkcyan;
+}
+
+.card:active {
+    background-color: darkolivegreen;
+    color: white;
+}
+
+button {
+    margin: 10px;
+    padding:  7px 25px;
+    border: 1px solid greenyellow;
+    background-color: darkgreen;
+}
+
+.card button:hover {
+    color: aqua;
+    background-color: brown;
+} */
+
+
+
+
+
+
+
+
